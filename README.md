@@ -14,4 +14,5 @@ A line chart displaying monthly revenue trends over time, providing a clear view
 Explore marketing strategies to boost weekday sales, as weekends currently contribute a smaller portion of the overall revenue.
 ### Monitor Monthly Trends: 
 Use the MoM Revenue chart to anticipate and prepare for seasonal fluctuations, ensuring optimal stock levels and marketing efforts.
+
 ![MTD](https://github.com/user-attachments/assets/89837afa-99d3-46d9-a5a8-fd6a9a30ab3b)
