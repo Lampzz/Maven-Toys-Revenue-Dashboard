@@ -16,3 +16,6 @@ Explore marketing strategies to boost weekday sales, as weekends currently contr
 Use the MoM Revenue chart to anticipate and prepare for seasonal fluctuations, ensuring optimal stock levels and marketing efforts.
 
 ![MTD](https://github.com/user-attachments/assets/89837afa-99d3-46d9-a5a8-fd6a9a30ab3b)
+
+
+This project was inspired by Maven Analytics on YouTube (https://www.youtube.com/watch?v=ij3tnLUym90&list=PPSV), All thanks to Enrique Riuz from Maven Analytics.
